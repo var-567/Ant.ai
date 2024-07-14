@@ -1,4 +1,4 @@
-# BigramLanguageModel
+# GPT architecture
 
 ## Hai!
 Built an minigpt that mimics the conversation of two individuals.
