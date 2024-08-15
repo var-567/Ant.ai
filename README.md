@@ -1,6 +1,6 @@
 # Ant.ai - Generate new Indian Style recepies
 
-## 
+
 Built an minigpt that mimics the conversation of two individuals.
 
 GPT's are generatively pretrained Transformers.
